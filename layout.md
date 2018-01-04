@@ -4,4 +4,5 @@ figures/MRI1p8rot
 figures/MRI1p8rot2
 Initial_results_for_.tex
 figures/BHspin
+figures/BHspin1
 subsectionExtension_.tex
