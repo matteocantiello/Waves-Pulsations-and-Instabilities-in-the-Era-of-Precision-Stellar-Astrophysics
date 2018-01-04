@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/BHspin/default_figure.png
+  - path: figures/BHspin/MRI1p8rot.svg
     type: static
     from:
     - 1
@@ -16,3 +16,5 @@ grid:
     to:
     - 1
     - 1
+    folder_url: "/users/14366/articles/278183/master/folder/figures/BHspin"
+    url: "/users/14366/articles/278183/master/file/figures/BHspin/MRI1p8rot.svg"
