@@ -4,4 +4,3 @@ Initial_results_for_.tex
 figures/BHspin
 subsectionExtension_.tex
 samh3nv9k7g.html
-olc4alt76fg.tex
