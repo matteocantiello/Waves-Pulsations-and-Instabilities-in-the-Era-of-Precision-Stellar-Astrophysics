@@ -16,6 +16,8 @@ Initial_results_for_.tex
 figures/BHspin
 4krq7in51v8.tex
 subsectionExtension_.tex
+1gnke0b8c1g.tex
+7fbi6hnc2c8.tex
 samh3nv9k7g.html
 epno0t8s9e.tex
 ra9rlevg888.tex
