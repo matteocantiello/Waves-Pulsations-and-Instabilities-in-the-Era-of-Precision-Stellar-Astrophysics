@@ -18,7 +18,6 @@ subsectionExtension_.tex
 1gnke0b8c1g.tex
 1tc0ohid198.tex
 figures/BHspin
-9g3ek5io7i.tex
 8tim2bjndm8.tex
 7fbi6hnc2c8.tex
 samh3nv9k7g.html
