@@ -8,6 +8,7 @@ dno0aqptaig.tex
 3fc36ujnip.tex
 i1oug8b28t.tex
 3pe48g7j0ug.tex
+figures/SPB
 fov1cu0jtgo.tex
 1fk519c0udo.tex
 tu4lsvfsa48.tex
