@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/SPB/SPB.svg
+  - path: figures/SPB/SPB.png
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/14366/articles/278183/master/folder/figures/SPB"
-    url: "/users/14366/articles/278183/master/file/figures/SPB/SPB.svg"
+    url: "/users/14366/articles/278183/master/file/figures/SPB/SPB.png"
