@@ -10,6 +10,8 @@ i1oug8b28t.tex
 3pe48g7j0ug.tex
 figures/SPB
 88lilmspfbg.html
+srq2mnlkdd8.tex
+g478pqu1kuo.html
 fov1cu0jtgo.tex
 1fk519c0udo.tex
 tu4lsvfsa48.tex
