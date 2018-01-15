@@ -35,5 +35,4 @@ epno0t8s9e.tex
 ra9rlevg888.tex
 adsq1j3an2.html
 figures/CollaborationTable
-figures/Starling1
 figures/Starling11
