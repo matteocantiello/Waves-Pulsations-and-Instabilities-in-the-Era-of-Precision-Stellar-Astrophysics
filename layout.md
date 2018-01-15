@@ -17,6 +17,8 @@ fov1cu0jtgo.tex
 1fk519c0udo.tex
 tu4lsvfsa48.tex
 s3eggsor2mo.tex
+figures/convection_TCAN
+fdoaeqbrnr.tex
 victncug0m8.tex
 6ejlkouv538.tex
 figures/MRI1p8rot
