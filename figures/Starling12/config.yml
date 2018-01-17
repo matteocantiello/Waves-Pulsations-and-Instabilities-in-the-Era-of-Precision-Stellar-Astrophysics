@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/Starling12/Starling.svg
+  - path: figures/Starling12/Starling2.svg
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/14366/articles/278183/master/folder/figures/Starling12"
-    url: "/users/14366/articles/278183/master/file/figures/Starling12/Starling.svg"
+    url: "/users/14366/articles/278183/master/file/figures/Starling12/Starling2.svg"
