@@ -31,6 +31,7 @@ subsectionExtension_.tex
 1gnke0b8c1g.tex
 1tc0ohid198.tex
 figures/BHspin
+figures/MassiveIGWspina
 samh3nv9k7g.html
 epno0t8s9e.tex
 figures/Ra_hres_rho_sphere_000016
