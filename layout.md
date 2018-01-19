@@ -21,6 +21,8 @@ s3eggsor2mo.tex
 figures/convection_TCAN
 fdoaeqbrnr.tex
 victncug0m8.tex
+figures/fig_instab_21
+l3n0n0di3r8.tex
 g8k9kebon7k.tex
 6ejlkouv538.tex
 figures/MRI1p8rot
