@@ -22,6 +22,7 @@ figures/convection_TCAN
 fdoaeqbrnr.tex
 victncug0m8.tex
 g8k9kebon7k.tex
+i4pntjuh9m8.tex
 figures/fig_instab_21
 6ejlkouv538.tex
 figures/MRI1p8rot
