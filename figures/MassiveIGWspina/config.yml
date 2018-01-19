@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: 500
+web-width: 500px
 align: center
 float: h!
 grid:
@@ -16,5 +16,4 @@ grid:
     to:
     - 1
     - 1
-    folder_url: "/users/14366/articles/278183/master/folder/figures/MassiveIGWspina"
     url: "/users/14366/articles/278183/master/file/figures/MassiveIGWspina/MassiveIGWspina.svg"
