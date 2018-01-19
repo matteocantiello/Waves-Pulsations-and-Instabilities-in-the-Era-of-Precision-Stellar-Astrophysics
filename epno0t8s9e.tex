@@ -3,11 +3,22 @@
     
 {\color{green}    
 \subsection{MESA}
-}
+}}
 
-\textbf{MESA}, Modules for Experiments in Stellar
-Astrophysics, solves the 1D fully coupled structure and composition
-equations governing stellar evolution \cite{Paxton2010,Paxton2013,Paxton2015}. It
+\textbf{MESA}, Modules for Experiments in Stellar\textbf{MESA}, Modules for Experiments in Stellar
+Astrophysics, solves the 1D fully coupled structure and compositionAstrophysics, solves the 1D fully coupled structure and composition
+equations governing stellar evolution \cite{Paxton2010,Paxton2013,Paxton2015}. Itequations governing stellar evolution \cite{Paxton2010,Paxton2013,Paxton2015}. It
+is based on an implicit finite difference scheme with adaptive mesh
+refinement and sophisticated timestep controls; 
+state-of-the-art modules provide equation of state, opacity, nuclear
+reaction rates, and element diffusion.
+%, as well as atmosphere boundary conditions, and
+%an innovative algorithm for mass loss and mass accretion. 
+It is 
+available under an open-source license and has  attracted $>800$ 
+ users.
+
+     
 is based on an implicit finite difference scheme with adaptive mesh
 refinement and sophisticated timestep controls; 
 state-of-the-art modules provide equation of state, opacity, nuclear
@@ -21,9 +32,16 @@ available under an open-source license and has  attracted $>800$
      
     
 {\color{brown}    
-\subsection{GYRE}}
- \textbf{GYRE} solves the 3D linearized hydrodynamic
-equations to calculate the nonradial, nonadiabatic oscillation
+\subsection{GYRE}}\subsection{GYRE}}
+ \textbf{GYRE} solves the 3D linearized hydrodynamic \textbf{GYRE} solves the 3D linearized hydrodynamic
+equations to calculate the nonradial, nonadiabatic oscillationequations to calculate the nonradial, nonadiabatic oscillation
+spectrum of differentially rotating stars \cite{2013MNRAS.435.3406T}. It is based
+on a spherical harmonic method in angular directions coupled with a
+sixth-order Magnus scheme in the radial direction. Initial tests on
+$\gtrsim 100$ processor architectures reveal near-linear parallel
+scaling. It is available under open-source license, and the only public oscillation code capable of
+considering the effects of nonadiabaticity and/or differential
+rotation.
 spectrum of differentially rotating stars \cite{2013MNRAS.435.3406T}. It is based
 on a spherical harmonic method in angular directions coupled with a
 sixth-order Magnus scheme in the radial direction. Initial tests on
