@@ -26,7 +26,6 @@ victncug0m8.tex
 figures/fig_rot_profiles
 p3fau8g45l.tex
 187bkh9sha4.tex
-figures/fig_instab_21
 6ejlkouv538.tex
 figures/MRI1p8rot
 Initial_results_for_.tex
