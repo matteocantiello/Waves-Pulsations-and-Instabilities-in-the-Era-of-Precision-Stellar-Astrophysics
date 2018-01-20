@@ -26,6 +26,7 @@ victncug0m8.tex
 figures/fig_rot_profiles
 p3fau8g45l.tex
 187bkh9sha4.tex
+figures/fig_instab_21
 6ejlkouv538.tex
 figures/MRI1p8rot
 Initial_results_for_.tex
@@ -43,3 +44,7 @@ figures/Ra_hres_rho_sphere_000016
 sg323q53btg.tex
 ra9rlevg888.tex
 adsq1j3an2.html
+lscs8n9om44.tex
+jeea88ghr7o.tex
+v1p0vt2g2is.tex
+1jc3n3pr00g.tex
