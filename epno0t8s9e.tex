@@ -58,11 +58,3 @@ equations to calculate the nonradial, nonadiabatic oscillation
 spectrum of stars \cite{2013MNRAS.435.3406T,Townsend:2017aa}. The angular dependence of perturbations are represented via spherical harmonics, while the radial dependence is found by solving a boundary eigenvalue problem (BEVP) on a discrete grid using a multiple shooting scheme. A variety of one-step methods are implemented for the shooting (Magnus, collocation, mono-implicit Runge Kutta), with orders up to $6^{\rm th}$ for high accuracy. The large, sparse (staircase-form) linear system resulting from the discretization is solved using a structured factorization algorithm parallelized in OpenMP. GYRE handles the effects of (mild) differential rotation using the traditional approximation of rotation (TAR); optical thinness using the Eddington approximation; and can deal with specilized circumstances such as non-equilibrium nuclear burning and ...
 
 GYRE was released under an open-source license in 2013, and since then has been adopted by over 50 groups worldwide as a general-purpose tool for asteroseismology. In modular form it is integrated into the MESA code, allowing on-the-fly optimization of stellar parameters (e.g., mass, composition, mixing length) to match sets of observed frequencies. 
-
-It uses a generalized boundary eigenvalue problem solver based on spherical-harmonic method in angular directions coupled with a generalized boundary eigenvalue problem solve
-
-multiple shooting technique in the radial direction, with a variety of single-step shooting schemes available (2$^{\rm nd}$-, $4$^{\rm th]Magnus). Initial tests on
-$\gtrsim 100$ processor architectures reveal near-linear parallel
-scaling. It is available under open-source license, and the only public oscillation code capable of
-considering the effects of nonadiabaticity and/or differential
-rotation.
