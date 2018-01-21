@@ -55,7 +55,7 @@ non-linear radial stellar pulsations (i.e. Cepheids) and  Matteo ? RICH???
 \subsection{GYRE}}
  \textbf{GYRE} solves the 3D linearized hydrodynamic
 equations to calculate the nonradial, nonadiabatic oscillation
-spectrum of stars \cite{2013MNRAS.435.3406T,Townsen:2017aa}. The angular dependence of perturbations are represented via spherical harmonics, while the radial dependence is found by solving a boundary eigenvalue problem (BEVP) on a dicrete grid using a multiple shooting scheme. A variety of one-step methods are implemented for the shooting (Magnus, collocation, mono-implicit Runge Kutta), with orders up to $6^{\rm th}$ for high accuracy. The large, sparse (staircase-form) linear system resulting from the B shooting is solved using a structured factorization algorithm parallelized with OpenMP. 
+spectrum of stars \cite{2013MNRAS.435.3406T,Townsen:2017aa}. The angular dependence of perturbations are represented via spherical harmonics, while the radial dependence is found by solving a boundary eigenvalue problem (BEVP) on a dicrete grid using a multiple shooting scheme. A variety of one-step methods are implemented for the shooting (Magnus, collocation, mono-implicit Runge Kutta), with orders up to $6^{\rm th}$ for high accuracy. The large, sparse (staircase-form) linear system resulting from the BVEP  shooting is solved using a structured factorization algorithm parallelized with OpenMP. 
 
 It uses a generalized boundary eigenvalue problem solver based on spherical-harmonic method in angular directions coupled with a generalized boundary eigenvalue problem solve
 
