@@ -1,7 +1,6 @@
 sectionInternal_Rota.tex
 kndfi4hkg1.tex
 qq9fokuhk1.tex
-oof4bl3acr8.tex
 a0irca10ir.tex
 cr6j23ghie8.tex
 la0tt5ue7bo.tex
