@@ -3,6 +3,6 @@
 
 \textbf{Dedalus} is an open-source pseudo-spectral code which can solve nearly arbitrary partial differential equations which the user specifies in plain text \citep[][source code at: dedalus-project.org]{Burns2016}. Spectral methods are ideal for simulations of stellar interiors, which are typically studied in periodic boxes for local simulations or spherical geometry for global simulations. It is based in Python, is straightforward to use, and has a growing user base. The majority of computation time is spent executing optimizing C libraries, such as FFTW or BLAS. We have shown excellent strong scaling on moderate 3D MHD simulations (e.g., resolution $512^3$) up to 8,192 processors on the NASA Pleiades cluster.
 
-Right now, Dedalus can only run simulations in Cartesian geometry. We have developed a prototype version of Dedalus that can run simulations in spherical geometry. We have developed a general strategy for geometries which include coordinate singularities, which we have used to solve problems in \cite{Vasil_2016}
+Right now, Dedalus can only run simulations in Cartesian geometry. We have developed a prototype version of Dedalus that can run simulations in spherical geometry. We have developed a general strategy for geometries which include coordinate singularities, which we have used to solve problems in cylindrical geometry \cite{Vasil_2016}
 
 
