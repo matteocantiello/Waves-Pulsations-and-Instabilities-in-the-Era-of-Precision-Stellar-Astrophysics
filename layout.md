@@ -26,7 +26,6 @@ figures/fig_instab_21
 6ejlkouv538.tex
 figures/MRI1p8rot
 Initial_results_for_.tex
-4krq7in51v8.tex
 gimvaga6il8.tex
 fo7ivuolmd8.tex
 subsectionExtension_.tex
