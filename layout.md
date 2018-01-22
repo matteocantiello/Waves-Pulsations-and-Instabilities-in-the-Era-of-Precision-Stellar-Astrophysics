@@ -1,4 +1,3 @@
-sectionInternal_Rota.tex
 kndfi4hkg1.tex
 qq9fokuhk1.tex
 a0irca10ir.tex
