@@ -34,7 +34,6 @@ it735v7ep0o.tex
 a993o180e6.tex
 1tc0ohid198.tex
 figures/BHspin
-figures/MassiveIGWspina
 samh3nv9k7g.html
 epno0t8s9e.tex
 figures/Ra_hres_rho_sphere_000016
