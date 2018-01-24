@@ -19,6 +19,8 @@ tu4lsvfsa48.tex
 s3eggsor2mo.tex
 figures/convection_TCAN
 fdoaeqbrnr.tex
+fptbe0v4lc8.tex
+v11b7f5gg68.tex
 victncug0m8.tex
 7692os1hsto.tex
 qnh2lfodhfg.tex
