@@ -20,7 +20,6 @@ s3eggsor2mo.tex
 figures/convection_TCAN
 fdoaeqbrnr.tex
 fptbe0v4lc8.tex
-v11b7f5gg68.tex
 victncug0m8.tex
 qnh2lfodhfg.tex
 figures/fig_rot_profiles
