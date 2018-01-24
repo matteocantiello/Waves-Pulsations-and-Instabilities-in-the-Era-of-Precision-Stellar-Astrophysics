@@ -33,7 +33,6 @@ fo7ivuolmd8.tex
 subsectionExtension_.tex
 1gnke0b8c1g.tex
 it735v7ep0o.tex
-a993o180e6.tex
 1tc0ohid198.tex
 figures/BHspin
 samh3nv9k7g.html
