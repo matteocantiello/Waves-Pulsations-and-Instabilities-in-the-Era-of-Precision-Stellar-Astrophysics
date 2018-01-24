@@ -22,7 +22,6 @@ fdoaeqbrnr.tex
 fptbe0v4lc8.tex
 v11b7f5gg68.tex
 victncug0m8.tex
-7692os1hsto.tex
 qnh2lfodhfg.tex
 figures/fig_rot_profiles
 187bkh9sha4.tex
