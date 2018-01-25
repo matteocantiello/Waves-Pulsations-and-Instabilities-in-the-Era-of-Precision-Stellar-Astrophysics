@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/fig_instab_21/panels.png
+  - path: figures/fig_instab_21/3panels.svg
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/14366/articles/278183/master/folder/figures/fig_instab_21"
-    url: "/users/14366/articles/278183/master/file/figures/fig_instab_21/panels.png"
+    url: "/users/14366/articles/278183/master/file/figures/fig_instab_21/3panels.svg"
