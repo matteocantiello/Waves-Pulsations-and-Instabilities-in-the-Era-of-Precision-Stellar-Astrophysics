@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/MRI1p8rot/Baro.svg
+  - path: figures/MRI1p8rot/MRI1p8rot.svg
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/14366/articles/278183/master/folder/figures/MRI1p8rot"
-    url: "/users/14366/articles/278183/master/file/figures/MRI1p8rot/Baro.svg"
+    url: "/users/14366/articles/278183/master/file/figures/MRI1p8rot/MRI1p8rot.svg"
