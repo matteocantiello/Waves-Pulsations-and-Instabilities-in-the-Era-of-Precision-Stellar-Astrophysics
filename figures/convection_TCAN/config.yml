@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/convection_TCAN/Convection.png
+  - path: figures/convection_TCAN/convection_TCAN.png
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/14366/articles/278183/master/folder/figures/convection_TCAN"
-    url: "/users/14366/articles/278183/master/file/figures/convection_TCAN/Convection.png"
+    url: "/users/14366/articles/278183/master/file/figures/convection_TCAN/convection_TCAN.png"
